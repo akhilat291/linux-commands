@@ -3,7 +3,6 @@
 3.more - to see content in file
 4.tail - to see last few lines of data
 5.tail-f - to see last few lines of content and add content
-
 6.locate - search for directory
 7.cd - change directory
 8.touch - create file
@@ -23,43 +22,19 @@
 22.q! - to quit the file forcefully
 23.:q! - to save and quit file
 24.wq! - 21.x - used to delete single character
-
-
-
-
-
-
 25. :%s/oldword/newword = to search a word and replace it
 26. sed = Steam editor can be used to perform text editing in a file.
-
-
 27. find -size - To search for the size of file (find path of the file -size -10c(bytes))
-
 28. find -size - To search for the size of file (find path of the file -size -10m(Megabytes))
-
-
 29.find -size-  To search for the size of file (find path of the file -size -10k(kilobytes))
-
 30. grep - To search any words in number of files at a time
-
-
 31. grep -i -To find all variations of a word in a case-insensitive manner
-
 32. du - To see the disk usage of file
-
-
-
-
 33. diff - To see the difference between the two files and directory
-
 34. wc -  To see number of words, lines and bytes in a file
-
-
 35. zip-   To create a zip arcive.zip file
 36. unzip - To unzip archive.zip file
-
-
-37. 37. 37. ln - To create links between lines
+37. ln - To create links between line
 
 
 
